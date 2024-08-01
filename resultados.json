@@ -1,0 +1,1002 @@
+[
+    {
+        "prompt": "¿Qué es la fotosíntesis?",
+        "respuesta": "¡Hola! La fotosíntesis es un proceso que realizan las plantas, algas y algunas bacterias para producir su propio alimento. Durante la fotosíntesis, estas organismos utilizan la luz del sol, el dióxido de carbono del aire y el agua del suelo para producir glucosa y liberar oxígeno como un producto de desecho. Es un proceso muy importante para la vida en la Tierra, ya que es la base de la cadena alimentaria y es la responsable de producir el oxígeno que necesitamos para respirar.",
+        "Entradas": {
+            "cohesion": 0.026939938465754192,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 67.76,
+            "inflesz": 62.660000000000025
+        },
+        "Salidas": {
+            "cohesion": 0.2003051321532795,
+            "gramatica": 0.9879518072289156,
+            "complejidad": 0.6506024096385542,
+            "riqueza": 0,
+            "huerta": 62.06054216867472,
+            "inflesz": 57.73198795180724
+        }
+    },
+    {
+        "prompt": "¿Qué es el reciclaje y por qué es importante?",
+        "respuesta": "El reciclaje es el proceso de convertir desechos o materiales usados en nuevos productos para evitar la contaminación del medio ambiente. Es importante porque ayuda a reducir la cantidad de desechos que terminan en vertederos, conserva los recursos naturales, ahorra energía y disminuye la contaminación del aire, agua y suelo. Reciclar también ayuda a combatir el cambio climático al reducir las emisiones de gases de efecto invernadero.",
+        "Entradas": {
+            "cohesion": 0.10505150512538174,
+            "gramatica": 1.0,
+            "complejidad": 0.8888888888888888,
+            "riqueza": 0,
+            "huerta": 90.99333333333334,
+            "inflesz": 87.07944444444446
+        },
+        "Salidas": {
+            "cohesion": 0.2588894051971705,
+            "gramatica": 1.0,
+            "complejidad": 0.7910447761194029,
+            "riqueza": 0,
+            "huerta": 41.67194029850748,
+            "inflesz": 36.655398009950275
+        }
+    },
+    {
+        "prompt": "¿Cómo se forman las nubes?",
+        "respuesta": "Las nubes se forman cuando el aire húmedo se eleva y se enfría. Cuando el aire se enfría lo suficiente, el vapor de agua en el aire se condensa para formar diminutas gotas de agua o cristales de hielo, que se agrupan para formar nubes. Las nubes son simplemente colecciones de gotas de agua o cristales de hielo suspendidos en la atmósfera.",
+        "Entradas": {
+            "cohesion": -0.03195699357560703,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 105.74000000000001,
+            "inflesz": 102.155
+        },
+        "Salidas": {
+            "cohesion": 0.163569207344927,
+            "gramatica": 1.0,
+            "complejidad": 0.5967741935483871,
+            "riqueza": 0,
+            "huerta": 68.66322580645162,
+            "inflesz": 64.5828494623656
+        }
+    },
+    {
+        "prompt": "¿Qué es un volcán?",
+        "respuesta": "Un volcán es una montaña que tiene una abertura en la cima por donde sale lava, ceniza y gases. Cuando estos materiales salen del volcán, pueden formar diferentes estructuras geológicas y paisajes. Los volcanes pueden ser activos, inactivos o extintos.",
+        "Entradas": {
+            "cohesion": -0.035485868652661644,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 112.76,
+            "inflesz": 109.38500000000002
+        },
+        "Salidas": {
+            "cohesion": 0.16657388923973168,
+            "gramatica": 1.0,
+            "complejidad": 0.925,
+            "riqueza": 0,
+            "huerta": 62.74000000000003,
+            "inflesz": 57.9991666666667
+        }
+    },
+    {
+        "prompt": "¿Qué significa ser saludable?",
+        "respuesta": "Ser saludable significa tener un estado de bienestar físico, mental y social completo. Esto implica llevar una dieta balanceada, hacer ejercicio regularmente, descansar lo suficiente, mantener una higiene adecuada y cuidar de nuestras emociones. Ser saludable nos ayuda a prevenir enfermedades, tener energía para realizar nuestras actividades diarias y sentirnos bien con nosotros mismos.",
+        "Entradas": {
+            "cohesion": 0.15841232053935528,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 37.760000000000005,
+            "inflesz": 31.51000000000002
+        },
+        "Salidas": {
+            "cohesion": 0.2869170263049103,
+            "gramatica": 1.0,
+            "complejidad": 0.8518518518518519,
+            "riqueza": 0,
+            "huerta": 35.14666666666669,
+            "inflesz": 29.623888888888928
+        }
+    },
+    {
+        "prompt": "¿Qué es la gravedad?",
+        "respuesta": "La gravedad es una fuerza natural que hace que todos los objetos con masa sean atraídos entre sí. Esta fuerza es lo que mantiene a los planetas en órbita alrededor del Sol y a la Luna alrededor de la Tierra.",
+        "Entradas": {
+            "cohesion": 0.007166094767550628,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 97.76,
+            "inflesz": 93.81000000000002
+        },
+        "Salidas": {
+            "cohesion": 0.1305944757048218,
+            "gramatica": 1.0,
+            "complejidad": 0.8,
+            "riqueza": 0,
+            "huerta": 81.44,
+            "inflesz": 77.81000000000002
+        }
+    },
+    {
+        "prompt": "¿Cómo funciona una brújula?",
+        "respuesta": "Una brújula es una herramienta de navegación que utiliza una aguja imantada para señalar la dirección del campo magnético terrestre, que generalmente apunta hacia el norte magnético. La aguja de la brújula es sensible al campo magnético y gira libremente sobre un eje, permitiendo así que siempre apunte hacia el norte. Esto ayuda a las personas a orientarse y saber en qué dirección están yendo. Es importante mantener la brújula alejada de objetos metálicos y campos magnéticos fuertes para que funcione correctamente.",
+        "Entradas": {
+            "cohesion": 0.07896726050724585,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 52.760000000000005,
+            "inflesz": 47.08500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.17981158350448823,
+            "gramatica": 1.0,
+            "complejidad": 0.7439024390243902,
+            "riqueza": 0,
+            "huerta": 46.1739024390244,
+            "inflesz": 41.221585365853684
+        }
+    },
+    {
+        "prompt": "¿Qué es un eclipse solar?",
+        "respuesta": "Un eclipse solar es un fenómeno natural que ocurre cuando la Luna se interpone entre la Tierra y el Sol, bloqueando parcial o totalmente la luz solar. Esto puede crear una sombra en la Tierra, oscureciendo temporalmente una parte del planeta. Es importante no mirar directamente al Sol durante un eclipse solar, ya que puede dañar tus ojos. ¡Es un evento astronómico fascinante que se puede observar con precaución y de manera segura!",
+        "Entradas": {
+            "cohesion": 0.1163136851849101,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 93.74000000000001,
+            "inflesz": 89.69500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.16583654727430347,
+            "gramatica": 1.0,
+            "complejidad": 0.821917808219178,
+            "riqueza": 0,
+            "huerta": 64.11541095890414,
+            "inflesz": 59.7178767123288
+        }
+    },
+    {
+        "prompt": "¿Qué es la contaminación del aire?",
+        "respuesta": "La contaminación del aire se refiere a la presencia en la atmósfera de sustancias que pueden ser perjudiciales para la salud de los seres vivos y el medio ambiente. Estas sustancias pueden ser emitidas por fuentes naturales o actividades humanas, como la quema de combustibles fósiles, la industria, el transporte y la agricultura. La contaminación del aire puede causar problemas respiratorios, daños en la salud y en el medio ambiente, y contribuir al cambio climático.",
+        "Entradas": {
+            "cohesion": 0.007288109511137009,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 70.72,
+            "inflesz": 65.85166666666669
+        },
+        "Salidas": {
+            "cohesion": 0.23103351794542318,
+            "gramatica": 1.0,
+            "complejidad": 0.68,
+            "riqueza": 0,
+            "huerta": 53.34,
+            "inflesz": 48.92833333333334
+        }
+    },
+    {
+        "prompt": "¿Qué significa ser amable?",
+        "respuesta": "Ser amable significa ser atento, considerado y respetuoso hacia los demás. Es tratar a las personas con amabilidad, cortesía y empatía. Ser amable implica mostrar interés por los sentimientos y necesidades de los demás, y actuar de manera gentil y amigable en nuestras interacciones con los demás.",
+        "Entradas": {
+            "cohesion": 0.10607529369493325,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 52.760000000000005,
+            "inflesz": 47.08500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.26201345607251775,
+            "gramatica": 1.0,
+            "complejidad": 0.7446808510638298,
+            "riqueza": 0,
+            "huerta": 61.92382978723403,
+            "inflesz": 57.28960992907803
+        }
+    },
+    {
+        "prompt": "Describe cómo se hace el papel reciclado.",
+        "respuesta": "¡Claro! El papel reciclado se hace a partir de papel usado que se recoge y se procesa para convertirlo en papel nuevo. El proceso de reciclaje de papel consiste en:\n\n1. Recolección: Se recoge el papel usado en contenedores de reciclaje o se lleva a centros de reciclaje.\n\n2. Clasificación: El papel recolectado se clasifica por tipo y se retiran objetos no deseados como clips o grapas.\n\n3. Trituración: El papel se tritura en pedazos pequeños para descomponer las fibras de celulosa.\n\n4. Remojo: Los pedazos de papel se remojan en agua para formar una pulpa de papel.\n\n5. Refinado: La pulpa se somete a un proceso de refinado para eliminar impurezas y lograr la consistencia adecuada.\n\n6. Secado: La pulpa refinada se extiende y se seca para eliminar el exceso de agua y formar hojas de papel nuevas.\n\n7. Preparación: Las hojas de papel se prensan, se suavizan y se cortan en el tamaño deseado.\n\n¡Y así es como se hace el papel reciclado! Es un proceso importante para ayudar a conservar los recursos naturales y reducir la cantidad de desechos.",
+        "Entradas": {
+            "cohesion": 0.1147678408306092,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 71.12857142857145,
+            "inflesz": 66.33500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.14044042885703242,
+            "gramatica": 1.0,
+            "complejidad": 0.5714285714285714,
+            "riqueza": 0.5870909090909091,
+            "huerta": 76.52666666666667,
+            "inflesz": 72.1238888888889
+        }
+    },
+    {
+        "prompt": "¿Cómo se transforma la leche en queso?",
+        "respuesta": "La leche se transforma en queso a través de un proceso llamado cuajado. En este proceso, la leche se calienta y se le añade un fermento especial que hace que la leche se coagule. Luego, se agrega cuajo, que es una enzima que ayuda a solidificar la leche. Una vez que la leche se ha solidificado, se corta en pequeños trozos y se separa el suero. Después, los trozos de leche se prensan y se dejan reposar para que el queso adquiera su textura y sabor característicos. Finalmente, el queso se madura durante un tiempo determinado antes de estar listo para ser consumido.",
+        "Entradas": {
+            "cohesion": 0.0733570009469986,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 96.84285714285716,
+            "inflesz": 93.03500000000003
+        },
+        "Salidas": {
+            "cohesion": 0.11188847902129688,
+            "gramatica": 1.0,
+            "complejidad": 0.6407766990291263,
+            "riqueza": 0.585625,
+            "huerta": 73.40766990291262,
+            "inflesz": 69.30231391585761
+        }
+    },
+    {
+        "prompt": "Explica cómo se planta un árbol.",
+        "respuesta": "¡Claro! Plantar un árbol es un proceso sencillo pero importante. Aquí tienes los pasos a seguir:\n\n1. Escoge el lugar adecuado: Elige un lugar con suficiente espacio para que las raíces y la copa del árbol puedan crecer sin restricciones.\n\n2. Prepara el hoyo: Excava un hoyo lo suficientemente grande y profundo para que las raíces del árbol quepan cómodamente.\n\n. \n\n3. Coloca el árbol en el hoyo: Retira con cuidado el árbol de su maceta y colócalo en el hoyo. Asegúrate de que esté derecho y a la profundidad adecuada.\n\n4. Rellena el hoyo: Rellena el hoyo con tierra, presionando suavemente para eliminar bolsas de aire alrededor de las raíces.\n\n5. Riega el árbol: Después de plantar el árbol, riega abundantemente para asegurarte de que las raíces estén bien hidratadas.\n\n6. Cuida y protege el árbol: Asegúrate de regar el árbol regularmente, protegerlo de animales y malas hierbas, y brindarle el cuidado necesario para que crezca fuerte y saludable.\n\n¡Y listo! Siguiendo estos pasos, ayudarás a que tu árbol crezca y se convierta en parte importante de nuestro entorno.",
+        "Entradas": {
+            "cohesion": 0.12221884887133326,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 90.72000000000001,
+            "inflesz": 86.61833333333335
+        },
+        "Salidas": {
+            "cohesion": 0.14338852872925312,
+            "gramatica": 0.9944444444444445,
+            "complejidad": 0.6256983240223464,
+            "riqueza": 0.5682727272727273,
+            "huerta": 77.70225325884543,
+            "inflesz": 73.33468963376785
+        }
+    },
+    {
+        "prompt": "Describe el proceso de reciclaje del plástico.",
+        "respuesta": "¡Claro! El proceso de reciclaje del plástico comienza cuando se recoge el plástico usado de los hogares, escuelas y negocios. Luego, se clasifica por tipo de plástico y se limpia para eliminar cualquier contaminante.\n\nDespués, el plástico se tritura en pequeños trozos para facilitar su transporte y manejo. Estos trozos se funden y se convierten en gránulos o pellets de plástico.\n\nFinalmente, estos gránulos se pueden utilizar para fabricar nuevos productos de plástico, como botellas, contenedores, juguetes, entre otros. De esta forma, se reduce la cantidad de plástico que termina en vertederos y se contribuye a la protección del medio ambiente. ¡Reciclar plástico es importante para cuidar nuestro planeta!",
+        "Entradas": {
+            "cohesion": 0.21314206905663013,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 62.557142857142864,
+            "inflesz": 57.43500000000003
+        },
+        "Salidas": {
+            "cohesion": 0.19808810625355153,
+            "gramatica": 1.0,
+            "complejidad": 0.7064220183486238,
+            "riqueza": 0.6192592592592592,
+            "huerta": 61.93332568807342,
+            "inflesz": 57.17880733944958
+        }
+    },
+    {
+        "prompt": "¿Cómo funciona una nevera?",
+        "respuesta": "Una nevera funciona mediante un ciclo de refrigeración. Utiliza un gas refrigerante que absorbe el calor del interior de la nevera y lo libera en la parte exterior a través de un sistema de bobinas y un compresor. Esto mantiene el interior de la nevera frío y conserva los alimentos frescos. También cuenta con un termostato que regula la temperatura para mantenerla constante.",
+        "Entradas": {
+            "cohesion": 0.07036376775552829,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 52.760000000000005,
+            "inflesz": 47.08500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.17710876972901066,
+            "gramatica": 0.9841269841269842,
+            "complejidad": 0.7142857142857143,
+            "riqueza": 0,
+            "huerta": 65.06071428571428,
+            "inflesz": 60.55166666666668
+        }
+    },
+    {
+        "prompt": "Explica cómo se procesa el agua potable.",
+        "respuesta": "¡Claro! El agua potable se procesa a través de un tratamiento en plantas potabilizadoras. Este proceso incluye varias etapas:\n\n1. **Coagulación**: Se añaden productos químicos al agua para que las impurezas se agrupen y formen flóculos.\n\n2. **Floculación**: Los flóculos formados en la etapa anterior se van juntando para formar partículas más grandes.\n\n3. **Sedimentación**: Las partículas más grandes se van al fondo y se eliminan.\n\n4. **Filtración**: El agua pasa por filtros de arena, grava y carbón activado para eliminar partículas más pequeñas y microorganismos.\n\n5. **Desinfección**: Se añaden productos como cloro o ozono para eliminar bacterias, virus y otros microorganismos que aún puedan quedar en el agua.\n\n6. **Ajuste del pH y control de la calidad**: Se corrige el nivel de acidez o basicidad del agua y se realizan pruebas para asegurar que cumple con los estándares de calidad.\n\nDespués de pasar por estos procesos, el agua se considera potable y segura para el consumo humano. ¡Recuerda siempre mantener una buena higiene y cuidar el agua que utilizamos!",
+        "Entradas": {
+            "cohesion": 0.20172917330637574,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 62.557142857142864,
+            "inflesz": 57.43500000000003
+        },
+        "Salidas": {
+            "cohesion": 0.14058227018747016,
+            "gramatica": 0.9941176470588236,
+            "complejidad": 0.6764705882352942,
+            "riqueza": 0.596198347107438,
+            "huerta": 68.94367647058823,
+            "inflesz": 64.28058823529412
+        }
+    },
+    {
+        "prompt": "Describe cómo se cocina un huevo frito.",
+        "respuesta": "Para cocinar un huevo frito, sigue estos pasos:\n\n1. Calienta un poco de aceite en una sartén a fuego medio.\n2. Rompe con cuidado el huevo y ponlo con cuidado en la sartén caliente.\n3. Deja que el huevo se cocine por un par de minutos, hasta que la clara esté firme pero la yema aún esté líquida.\n4. Con una espátula, cuidadosamente da vuelta el huevo para cocinar el otro lado por unos segundos más si prefieres la yema más cocida.\n5. Finalmente, retira el huevo de la sartén y sírvelo caliente. ¡Y disfruta tu huevo frito!",
+        "Entradas": {
+            "cohesion": 0.1783696140628308,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 79.7,
+            "inflesz": 75.23500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.12105947217399565,
+            "gramatica": 0.9897959183673469,
+            "complejidad": 0.6836734693877551,
+            "riqueza": 0.6306666666666667,
+            "huerta": 93.05884972170688,
+            "inflesz": 89.21876623376625
+        }
+    },
+    {
+        "prompt": "¿Cómo se construye una casa?",
+        "respuesta": "¡Hola! Construir una casa es un proceso que implica varias etapas. En resumen, se suele seguir estos pasos:\n\n1. **Planificación**: En esta etapa se decide el diseño de la casa, se obtienen los permisos necesarios y se establece un presupuesto.\n\n2. **Preparación del terreno**: Se limpia y se nivelada el terreno donde se construirá la casa.\n\n3. **Cimientos**: Se excavará y se construirán los cimientos, que son la base sobre la que se sostendrá la casa.\n\n4. **Estructura**: Se construyen las paredes, el techo y se instalan las ventanas y puertas.\n\n5. **Instalaciones**: Se realizan las instalaciones eléctricas, de plomería y de calefacción.\n\n6. **Acabados**: Se aplican los materiales finales como pintura, pisos, azulejos, etc.\n\n7. **Inspección final**: Se realizan inspecciones para asegurarse de que la casa cumple con los estándares de construcción y seguridad.\n\n¡Así es como se construye una casa en resumen!",
+        "Entradas": {
+            "cohesion": -0.009879543312958308,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 81.74000000000001,
+            "inflesz": 77.23500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.11691496910246646,
+            "gramatica": 0.9930555555555556,
+            "complejidad": 0.6666666666666666,
+            "riqueza": 0.5106666666666666,
+            "huerta": 76.41,
+            "inflesz": 71.93708333333333
+        }
+    },
+    {
+        "prompt": "Explica cómo funciona una bicicleta.",
+        "respuesta": "¡Claro! Una bicicleta funciona de la siguiente manera:\n\n1. Pedales: Al pedalear, mueves una cadena que hace girar la rueda trasera.\n\n2. Cadena: La cadena transfiere la energía de tus piernas a la rueda trasera.\n\n3. Ruedas: Las ruedas giran cuando la cadena las impulsa, permitiéndote avanzar.\n\n4. Frenos: Los frenos te permiten detenerte al presionar las palancas correspondientes.\n\n5. Manillar: Con el manillar controlas la dirección de la bicicleta.\n\n¡Así es como funciona una bicicleta! ¡Espero que esta explicación te haya sido útil!",
+        "Entradas": {
+            "cohesion": 0.15054047852754593,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 33.74,
+            "inflesz": 27.39500000000004
+        },
+        "Salidas": {
+            "cohesion": 0.09432162865056869,
+            "gramatica": 1.0,
+            "complejidad": 0.7976190476190477,
+            "riqueza": 0.6616666666666667,
+            "huerta": 72.39208791208792,
+            "inflesz": 67.61512820512822
+        }
+    },
+    {
+        "prompt": "Describe el ciclo del agua.",
+        "respuesta": "¡Claro! El ciclo del agua es el proceso en el que el agua se mueve continuamente en la Tierra. Comienza con la evaporación del agua de ríos, lagos y océanos debido al calor del sol. El vapor de agua se eleva en la atmósfera y se enfría, formando nubes en un proceso llamado condensación. Luego, las gotas de agua en las nubes se agrupan y caen a la Tierra en forma de lluvia, nieve o granizo, en un proceso llamado precipitación. El agua de la precipitación se acumula en ríos, lagos y océanos, reiniciando el ciclo. ¡Así el agua sigue su recorrido continuamente!",
+        "Entradas": {
+            "cohesion": 0.06848858296871185,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 81.74000000000001,
+            "inflesz": 77.23500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.137618595176619,
+            "gramatica": 1.0,
+            "complejidad": 0.5728155339805825,
+            "riqueza": 0.5072222222222222,
+            "huerta": 70.66638002773927,
+            "inflesz": 66.31100554785023
+        }
+    },
+    {
+        "prompt": "Cuenta una historia sobre un día en la vida de un astronauta.",
+        "respuesta": "¡Claro! Aquí tienes una historia sobre un día en la vida de un astronauta:\n\nUn día, el astronauta Lucas se despertó en la estación espacial. Después de desayunar, revisó su agenda para el día. Tenía planeado hacer una caminata espacial para reparar un panel solar dañado.\n\nLucas se preparó cuidadosamente, revisando su traje espacial y realizando los últimos chequeos antes de salir al espacio. Una vez afuera, se sintió maravillado por la inmensidad y la belleza del universo que lo rodeaba.\n\nMientras trabajaba en la reparación, Lucas se detuvo por un momento para observar la Tierra desde arriba. Vio continentes, océanos y nubes flotando en el espacio. Se sintió agradecido por tener la oportunidad de explorar el cosmos.\n\nDespués de completar la reparación, Lucas regresó a la estación espacial y se tomó un momento para relajarse y contemplar la experiencia única que había vivido ese día. Se sintió afortunado de ser astronauta y de poder contribuir al avance de la exploración espacial.\n\nY así, terminó un día emocionante en la vida de Lucas, un astronauta valiente y curioso que siempre estaba listo para desafiar los límites del espacio.",
+        "Entradas": {
+            "cohesion": 0.014954319642408965,
+            "gramatica": 1.0,
+            "complejidad": 0.9166666666666666,
+            "riqueza": 0,
+            "huerta": 79.6,
+            "inflesz": 75.42666666666668
+        },
+        "Salidas": {
+            "cohesion": 0.11730784708682525,
+            "gramatica": 1.0,
+            "complejidad": 0.601063829787234,
+            "riqueza": 0.659099099099099,
+            "huerta": 57.45574468085108,
+            "inflesz": 52.65024822695039
+        }
+    },
+    {
+        "prompt": "Imagina que eres un explorador en una jungla. ¿Qué ves y haces?.",
+        "respuesta": "Como explorador en la jungla, vería árboles altos y frondosos, plantas exóticas, animales como monos y aves coloridas. También escucharía los sonidos de la selva, como el canto de los pájaros y el rugido de los monos.\n\nPara mantenerme seguro, sería importante estar atento a posibles peligros, como serpientes venenosas o plantas espinosas. También sería clave seguir pistas naturales, como huellas de animales o rastros de agua, para encontrar mi camino de regreso.\n\nEs importante respetar el entorno natural y no dejar basura ni dañar la flora y fauna que habita en la jungla. ¡Explorar la naturaleza es una experiencia fascinante y llena de aprendizaje!",
+        "Entradas": {
+            "cohesion": 0.17686342931119725,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 90.72000000000001,
+            "inflesz": 86.61833333333335
+        },
+        "Salidas": {
+            "cohesion": 0.2205277059158524,
+            "gramatica": 1.0,
+            "complejidad": 0.7238095238095238,
+            "riqueza": 0.6615,
+            "huerta": 57.56142857142856,
+            "inflesz": 52.86833333333334
+        }
+    },
+    {
+        "prompt": "Escribe una historia sobre tu mascota.",
+        "respuesta": "¡Claro! Aquí tienes una historia sobre mi mascota:\n\nMi mascota se llama Luna, es una gata muy traviesa y cariñosa. Un día, mientras jugaba en el jardín, Luna se metió en un arbusto y no quería salir. Por más que la llamaba, no salía de su escondite. Decidí acercarme con cuidado y con paciencia logré sacarla.\n\nDesde ese día, Luna no volvió a meterse en arbustos, aprendió que es mejor jugar en espacios abiertos y seguros. Ahora, disfrutamos de largas siestas juntos en el sofá y de divertidos juegos con sus juguetes favoritos.\n\nLuna es parte de mi familia y cada día me sorprende con su cariño y travesuras. ¡Es la mejor compañera que podría tener!",
+        "Entradas": {
+            "cohesion": 0.06418856871979577,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 50.720000000000006,
+            "inflesz": 45.08500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.11860727315017383,
+            "gramatica": 1.0,
+            "complejidad": 0.7241379310344828,
+            "riqueza": 0.6647058823529413,
+            "huerta": 77.8312643678161,
+            "inflesz": 73.64266283524906
+        }
+    },
+    {
+        "prompt": "Imagina que puedes hablar con los animales. ¿Qué te dirían?",
+        "respuesta": "Si pudiera hablar con los animales, seguramente me contarían sobre sus necesidades básicas como comida, agua, refugio y cariño. También podrían expresar sus emociones, como alegría, miedo o tristeza. Sería interesante escuchar sus experiencias y aprender más sobre su forma de ver el mundo. ¡Los animales tienen mucho que enseñarnos si aprendemos a escucharlos!",
+        "Entradas": {
+            "cohesion": 0.10614040236060436,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 75.74000000000001,
+            "inflesz": 71.005
+        },
+        "Salidas": {
+            "cohesion": 0.1787673150174669,
+            "gramatica": 1.0,
+            "complejidad": 0.9074074074074074,
+            "riqueza": 0,
+            "huerta": 50.84777777777781,
+            "inflesz": 45.66092592592594
+        }
+    },
+    {
+        "prompt": "Describe un día perfecto en tu vida.",
+        "respuesta": "Un día perfecto en mi vida sería cuando me despierto sintiéndome descansado y lleno de energía. Disfrutaría de un desayuno saludable y delicioso. Pasaría tiempo al aire libre, quizás dando un paseo por un parque o disfrutando del sol en la playa. También me gustaría pasar tiempo con mis seres queridos, compartiendo risas y buenos momentos juntos. Por la tarde, me dedicaría a hacer algo que me apasiona, como leer un buen libro, dibujar o practicar deporte. Por la noche, me relajaría viendo una película o serie que me guste, antes de ir a dormir feliz y satisfecho con mi día.",
+        "Entradas": {
+            "cohesion": 0.038935742573812604,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 88.27142857142857,
+            "inflesz": 84.135
+        },
+        "Salidas": {
+            "cohesion": 0.1368911578299543,
+            "gramatica": 1.0,
+            "complejidad": 0.7623762376237624,
+            "riqueza": 0.7033333333333333,
+            "huerta": 69.67,
+            "inflesz": 65.40166666666669
+        }
+    },
+    {
+        "prompt": "Escribe una historia sobre un niño que encuentra un tesoro.",
+        "respuesta": "Había una vez un niño llamado Lucas que vivía en un pequeño pueblo cerca del mar. Un día, mientras paseaba por la playa, Lucas vio algo brillante entre las rocas. Se acercó y descubrió que era un cofre enterrado en la arena.\n\nCon mucha emoción, Lucas abrió el cofre y encontró dentro un mapa antiguo que indicaba la ubicación de un tesoro escondido. Decidido a descubrirlo, empezó a seguir las pistas del mapa, explorando cuevas, subiendo montañas y cruzando ríos.\n\nDespués de muchas aventuras y desafíos, Lucas finalmente llegó al lugar donde el tesoro estaba enterrado. Con una pala que había encontrado en el camino, comenzó a cavar y pronto descubrió un cofre lleno de monedas de oro, joyas brillantes y piedras preciosas.\n\nLucas no podía creer su suerte y regresó al pueblo con el tesoro en sus manos. Todos se sorprendieron al verlo llegar cargando tantas riquezas. El niño compartió su hallazgo con la comunidad y juntos decidieron usar parte del tesoro para mejorar la escuela y la biblioteca del pueblo.\n\nDesde ese día, Lucas se convirtió en un héroe local y siempre recordó la emocionante aventura que lo llevó a descubrir el tesoro escondido en la playa.",
+        "Entradas": {
+            "cohesion": 0.04883237898519093,
+            "gramatica": 1.0,
+            "complejidad": 0.9,
+            "riqueza": 0,
+            "huerta": 64.64,
+            "inflesz": 59.775000000000006
+        },
+        "Salidas": {
+            "cohesion": 0.11688785830899308,
+            "gramatica": 1.0,
+            "complejidad": 0.6633165829145728,
+            "riqueza": 0.707603305785124,
+            "huerta": 67.4827501142074,
+            "inflesz": 63.20489492919141
+        }
+    },
+    {
+        "prompt": "Imagina que viajas al pasado. ¿Qué época te gustaría visitar y por qué?",
+        "respuesta": "¡Hola! Si pudiera viajar al pasado, me gustaría visitar la época del Renacimiento. Me encantaría poder presenciar el florecimiento del arte, la ciencia y la cultura que se dio en ese período. Sería increíble ver de cerca las obras de artistas como Leonardo da Vinci, Miguel Ángel y Rafael, y aprender sobre los avances en áreas como la astronomía y la anatomía. ¡Sería una experiencia fascinante!",
+        "Entradas": {
+            "cohesion": 0.06219567940570414,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 70.97923076923078,
+            "inflesz": 66.15038461538464
+        },
+        "Salidas": {
+            "cohesion": 0.17756798410298327,
+            "gramatica": 1.0,
+            "complejidad": 0.8333333333333334,
+            "riqueza": 0,
+            "huerta": 62.46690909090913,
+            "inflesz": 57.7077272727273
+        }
+    },
+    {
+        "prompt": "Cuenta una aventura en una montaña.",
+        "respuesta": "¡Claro! Imagina una montaña cubierta de nieve brillante, con árboles altos y frondosos a su alrededor. Un grupo de amigos decidieron hacer una excursión a esa montaña. Durante el ascenso, se encontraron con un río congelado y tuvieron que deslizarse sobre él con sus trineos improvisados.\n\nAl llegar a la cima, descubrieron una cueva misteriosa. Decidieron explorarla y encontraron antiguos tesoros escondidos. Sin embargo, de repente, una tormenta de nieve los sorprendió. Con valentía, lograron construir un refugio improvisado con ramas y hojas.\n\nPasaron la noche en la cueva, contando historias y compartiendo alimentos. Al día siguiente, la tormenta cesó y pudieron regresar a casa, recordando esta emocionante aventura en la montaña para siempre. ¡Fue una experiencia inolvidable llena de emoción y compañerismo!",
+        "Entradas": {
+            "cohesion": 0.10373213035719735,
+            "gramatica": 1.0,
+            "complejidad": 0.8333333333333334,
+            "riqueza": 0,
+            "huerta": 60.720000000000006,
+            "inflesz": 55.468333333333334
+        },
+        "Salidas": {
+            "cohesion": 0.17386344564642256,
+            "gramatica": 1.0,
+            "complejidad": 0.7479674796747967,
+            "riqueza": 0.6902272727272727,
+            "huerta": 57.385764966740595,
+            "inflesz": 52.31253141167776
+        }
+    },
+    {
+        "prompt": "Escribe sobre un día en la vida de un superhéroe.",
+        "respuesta": "¡Claro! Un día en la vida de un superhéroe está lleno de emoción y acción. Por la mañana, se levanta temprano para entrenar y mantenerse en forma. Luego, recibe una llamada de emergencia y corre a salvar el día.\n\nDurante el día, un superhéroe puede enfrentarse a villanos, rescatar personas en peligro y proteger la ciudad de cualquier amenaza. A veces, trabaja en equipo con otros superhéroes para resolver problemas más grandes.\n\nPor la noche, después de un largo día de salvamento, el superhéroe regresa a su guarida secreta para descansar y prepararse para el próximo desafío. Aunque su vida está llena de peligros, siempre está listo para ayudar a los demás y hacer del mundo un lugar mejor. ¡Así es un día en la vida de un superhéroe!",
+        "Entradas": {
+            "cohesion": 0.01537477401540276,
+            "gramatica": 1.0,
+            "complejidad": 0.9,
+            "riqueza": 0,
+            "huerta": 82.64,
+            "inflesz": 78.46500000000002
+        },
+        "Salidas": {
+            "cohesion": 0.14573387825900377,
+            "gramatica": 1.0,
+            "complejidad": 0.6511627906976745,
+            "riqueza": 0.6485106382978724,
+            "huerta": 70.35953488372093,
+            "inflesz": 65.96988372093024
+        }
+    },
+    {
+        "prompt": "Describe una excursión con tus amigos.",
+        "respuesta": "¡Claro! Una excursión con amigos es una gran oportunidad para explorar nuevos lugares y pasar tiempo juntos. Pueden visitar un parque natural, un museo interesante, una playa o incluso hacer una caminata por la montaña. Recuerda siempre llevar agua, comida saludable, protector solar y ropa cómoda. ¡Diviértanse y disfruten de la aventura juntos!",
+        "Entradas": {
+            "cohesion": 0.12480286615235466,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 60.720000000000006,
+            "inflesz": 55.468333333333334
+        },
+        "Salidas": {
+            "cohesion": 0.20403019294462865,
+            "gramatica": 1.0,
+            "complejidad": 0.8867924528301887,
+            "riqueza": 0,
+            "huerta": 59.046867924528314,
+            "inflesz": 54.00292452830188
+        }
+    },
+    {
+        "prompt": "Explica el teorema de Pitágoras.",
+        "respuesta": "¡Claro! El teorema de Pitágoras es una regla matemática que se aplica a triángulos rectángulos, es decir, aquellos que tienen un ángulo de 90 grados. Este teorema establece que la suma de los cuadrados de los dos catetos (los lados más cortos del triángulo) es igual al cuadrado de la hipotenusa (el lado más largo del triángulo). En términos matemáticos, la fórmula es a^2 + b^2 = c^2, donde \"a\" y \"b\" son los catetos y \"c\" es la hipotenusa. ¡Es muy útil para calcular la longitud de un lado desconocido en un triángulo rectángulo!",
+        "Entradas": {
+            "cohesion": 0.19922927394509315,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 45.74,
+            "inflesz": 39.85500000000002
+        },
+        "Salidas": {
+            "cohesion": 0.14221590994817107,
+            "gramatica": 0.9894736842105263,
+            "complejidad": 0.7526881720430108,
+            "riqueza": 0.6446666666666666,
+            "huerta": 76.00599999999999,
+            "inflesz": 72.12041666666667
+        }
+    },
+    {
+        "prompt": "¿Qué es la electricidad y cómo funciona?",
+        "respuesta": "La electricidad es una forma de energía que se produce a partir del movimiento de partículas cargadas eléctricamente, como electrones. En términos sencillos, se puede decir que la electricidad es el flujo de electrones a través de un conductor, como un cable. \n\nCuando se conecta un aparato eléctrico a una fuente de energía, como un enchufe, se crea un circuito eléctrico que permite que los electrones fluyan a través del aparato, proporcionando la energía necesaria para que funcione.\n\nEn resumen, la electricidad es el movimiento de electrones a través de un conductor que permite que los aparatos eléctricos funcionen.",
+        "Entradas": {
+            "cohesion": 0.045928157659040555,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 79.7,
+            "inflesz": 75.23500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.18110422169723148,
+            "gramatica": 1.0,
+            "complejidad": 0.5454545454545454,
+            "riqueza": 0.48272727272727267,
+            "huerta": 48.261666666666656,
+            "inflesz": 43.64055555555555
+        }
+    },
+    {
+        "prompt": "Explica cómo se propagan las ondas sonoras.",
+        "respuesta": "Las ondas sonoras se propagan a través de un medio material, como el aire, el agua o sólidos. Cuando una fuente de sonido, como por ejemplo una persona que habla o un instrumento musical, vibra, produce cambios de presión en el medio que la rodea. Estos cambios de presión se propagan en forma de ondas sonoras, que viajan a través del medio de partícula en partícula.\n\nLas ondas sonoras se propagan en todas direcciones desde la fuente de sonido y cuando llegan a nuestros oídos, hacen vibrar nuestro tímpano, lo que nos permite percibir el sonido. La velocidad a la que se propagan las ondas sonoras depende del medio a través del cual se desplazan. Por ejemplo, el sonido viaja más rápido en el agua que en el aire, ya que las partículas en el agua están más juntas que en el aire, lo que permite una transmisión más rápida de las ondas sonoras.",
+        "Entradas": {
+            "cohesion": 0.22174758929759264,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 71.12857142857145,
+            "inflesz": 66.33500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.1733914181173151,
+            "gramatica": 1.0,
+            "complejidad": 0.5064935064935064,
+            "riqueza": 0.56125,
+            "huerta": 67.67298701298701,
+            "inflesz": 63.85015151515152
+        }
+    },
+    {
+        "prompt": "¿Qué es un imán y cómo funciona?",
+        "respuesta": "Un imán es un objeto que tiene la capacidad de atraer objetos metálicos como clavos, alfileres o clips. Funciona gracias a la presencia de campos magnéticos, que son áreas de influencia que ejercen fuerzas de atracción o repulsión sobre otros objetos magnéticos. Los imanes tienen un polo norte y un polo sur, y los polos opuestos se atraen, mientras que los polos iguales se repelen. Esto es lo que permite que los imanes atraigan objetos metálicos.",
+        "Entradas": {
+            "cohesion": 0.08145577046606275,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 105.41428571428573,
+            "inflesz": 101.93500000000002
+        },
+        "Salidas": {
+            "cohesion": 0.21488406509160995,
+            "gramatica": 1.0,
+            "complejidad": 0.7105263157894737,
+            "riqueza": 0,
+            "huerta": 65.09157894736845,
+            "inflesz": 60.77578947368424
+        }
+    },
+    {
+        "prompt": "¿Cómo se genera la energía eólica?",
+        "respuesta": "La energía eólica se genera utilizando la fuerza del viento para hacer girar unas aspas que están conectadas a un generador. Cuando las aspas giran, el generador convierte esa energía mecánica en energía eléctrica. Esta electricidad se puede utilizar para alimentar hogares, escuelas y otras estructuras. ¡Es una forma de energía limpia y renovable!",
+        "Entradas": {
+            "cohesion": 0.1133806974394247,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 50.720000000000006,
+            "inflesz": 45.08500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.242134789111795,
+            "gramatica": 1.0,
+            "complejidad": 0.8703703703703703,
+            "riqueza": 0,
+            "huerta": 47.514444444444436,
+            "inflesz": 42.19981481481483
+        }
+    },
+    {
+        "prompt": "¿Qué es un circuito eléctrico?",
+        "respuesta": "Un circuito eléctrico es una ruta cerrada por la cual la corriente eléctrica puede fluir. Está compuesto por componentes como una fuente de energía (como una batería), cables conductores y dispositivos eléctricos (como bombillas o motores) que utilizan la energía eléctrica para funcionar. Cuando un circuito eléctrico está completo y no tiene interrupciones, la corriente eléctrica puede fluir a través de él y hacer que los dispositivos funcionen. Si hay una interrupción en el circuito, la corriente eléctrica no podrá fluir y los dispositivos no funcionarán.",
+        "Entradas": {
+            "cohesion": 0.024792715840573822,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 69.74000000000001,
+            "inflesz": 64.775
+        },
+        "Salidas": {
+            "cohesion": 0.2011888823111916,
+            "gramatica": 1.0,
+            "complejidad": 0.6627906976744186,
+            "riqueza": 0,
+            "huerta": 50.956511627907,
+            "inflesz": 46.246627906976755
+        }
+    },
+    {
+        "prompt": "Explica cómo funciona Internet.",
+        "respuesta": "Internet es una red mundial de computadoras que se conectan entre sí para compartir información. Funciona a través de la interconexión de diferentes redes de computadoras mediante cables, fibras ópticas y señales inalámbricas. Cuando una computadora se conecta a Internet, puede enviar y recibir datos a través de protocolos de comunicación como el TCP/IP. Los datos se transfieren a través de servidores y routers que dirigen la información a su destino final. Los usuarios acceden a Internet a través de proveedores de servicios de Internet (ISP) utilizando dispositivos como computadoras, teléfonos inteligentes o tabletas. Una vez conectados, los usuarios pueden buscar información, enviar correos electrónicos, ver videos, jugar juegos en línea, entre muchas otras actividades.",
+        "Entradas": {
+            "cohesion": 0.17981260120868683,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 37.760000000000005,
+            "inflesz": 31.51000000000002
+        },
+        "Salidas": {
+            "cohesion": 0.2132545805018031,
+            "gramatica": 1.0,
+            "complejidad": 0.7043478260869566,
+            "riqueza": 0.6421875,
+            "huerta": 44.36137931034483,
+            "inflesz": 39.27063218390806
+        }
+    },
+    {
+        "prompt": "¿Qué es la energía solar y cómo se usa?",
+        "respuesta": "La energía solar es la energía proveniente del sol. Se utiliza a través de paneles solares que captan la luz solar y la convierten en electricidad. Esta electricidad puede ser utilizada para alimentar casas, edificios, escuelas, entre otros lugares, como una fuente de energía limpia y renovable.",
+        "Entradas": {
+            "cohesion": 0.030129316347566517,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 97.66,
+            "inflesz": 94.00166666666668
+        },
+        "Salidas": {
+            "cohesion": 0.2284280658113184,
+            "gramatica": 1.0,
+            "complejidad": 0.851063829787234,
+            "riqueza": 0,
+            "huerta": 55.540851063829805,
+            "inflesz": 50.66195035460995
+        }
+    },
+    {
+        "prompt": "Describe el proceso de fotosíntesis.",
+        "respuesta": "¡Hola! La fotosíntesis es el proceso mediante el cual las plantas, algas y algunas bacterias producen su alimento utilizando la luz del sol. Aquí te explico de forma sencilla cómo funciona:\n\n1. Las plantas tienen unas partes llamadas cloroplastos que contienen clorofila, un pigmento verde que les da color. La clorofila absorbe la luz solar.\n2. La planta absorbe dióxido de carbono (CO2) del aire a través de los poros en sus hojas, llamados estomas.\n3. El agua es absorbida por las raíces de la planta y transportada a través de los vasos conductores hasta las hojas.\n4. En presencia de la luz solar, la clorofila convierte el dióxido de carbono y el agua en glucosa (azúcar) y oxígeno.\n5. La planta utiliza la glucosa como fuente de energía para crecer y desarrollarse. El oxígeno producido es liberado al aire como un subproducto de la fotosíntesis.\n\n¡Así es como las plantas producen su propio alimento y generan oxígeno para que nosotros y otros seres vivos respiremos! ¿Hay algo más en lo que pueda ayudarte?",
+        "Entradas": {
+            "cohesion": 0.1621919348835945,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 45.74,
+            "inflesz": 39.85500000000002
+        },
+        "Salidas": {
+            "cohesion": 0.17162205450250229,
+            "gramatica": 0.9942528735632183,
+            "complejidad": 0.6436781609195402,
+            "riqueza": 0.6476000000000001,
+            "huerta": 77.8164655172414,
+            "inflesz": 73.50827586206898
+        }
+    },
+    {
+        "prompt": "Explica cómo se mide la temperatura.",
+        "respuesta": "La temperatura se mide utilizando un instrumento llamado termómetro. Este dispositivo contiene una sustancia que se expande o contrae dependiendo de la temperatura del ambiente. Al subir la temperatura, la sustancia se expande y marca un valor más alto en la escala del termómetro. Al bajar la temperatura, la sustancia se contrae y marca un valor más bajo. La temperatura se suele medir en grados Celsius (°C) o Fahrenheit (°F), dependiendo del sistema de medida utilizado en cada país.",
+        "Entradas": {
+            "cohesion": 0.0353412213070052,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 60.720000000000006,
+            "inflesz": 55.468333333333334
+        },
+        "Salidas": {
+            "cohesion": 0.13665168498055605,
+            "gramatica": 1.0,
+            "complejidad": 0.5949367088607594,
+            "riqueza": 0,
+            "huerta": 62.36956962025319,
+            "inflesz": 57.76031645569624
+        }
+    },
+    {
+        "prompt": "¿Cuál es tu opinión sobre el uso de uniformes escolares?",
+        "respuesta": "El uso de uniformes escolares tiene tanto ventajas como desventajas. Algunas ventajas incluyen promover la igualdad entre los estudiantes, reducir la presión de vestirse a la moda y fomentar un sentido de pertenencia a la institución educativa. Sin embargo, algunas personas consideran que los uniformes pueden limitar la expresión individual y la creatividad de los estudiantes. En última instancia, la opinión sobre el uso de uniformes escolares varía según la perspectiva de cada persona.",
+        "Entradas": {
+            "cohesion": 0.1282235435307181,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 64.64,
+            "inflesz": 59.775000000000006
+        },
+        "Salidas": {
+            "cohesion": 0.2570015990439756,
+            "gramatica": 1.0,
+            "complejidad": 0.7162162162162162,
+            "riqueza": 0,
+            "huerta": 41.21324324324323,
+            "inflesz": 35.95256756756757
+        }
+    },
+    {
+        "prompt": "¿Por qué crees que es importante cuidar el medio ambiente?",
+        "respuesta": "Cuidar el medio ambiente es importante porque nos proporciona aire limpio para respirar, agua segura para beber, alimentos saludables para comer y un hábitat adecuado para las plantas y animales. Si no cuidamos el medio ambiente, podemos causar daños irreversibles a la naturaleza y afectar nuestra calidad de vida. Es responsabilidad de todos proteger y conservar nuestro entorno para las generaciones futuras. ¡Cuidar el medio ambiente es cuidar de nosotros mismos!",
+        "Entradas": {
+            "cohesion": 0.33110447103778523,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 82.64,
+            "inflesz": 78.46500000000002
+        },
+        "Salidas": {
+            "cohesion": 0.24433970569243915,
+            "gramatica": 1.0,
+            "complejidad": 0.7746478873239436,
+            "riqueza": 0,
+            "huerta": 54.36880281690141,
+            "inflesz": 49.5680985915493
+        }
+    },
+    {
+        "prompt": "¿Deberían los niños tener teléfonos móviles? ¿Por qué?",
+        "respuesta": "Los teléfonos móviles pueden ser útiles para mantenerse en contacto con la familia, acceder a información educativa y en casos de emergencia. Sin embargo, es importante establecer límites en su uso y supervisar su uso para garantizar la seguridad y el bienestar de los niños. Los padres deben considerar la madurez y la responsabilidad de sus hijos antes de decidir si les dan un teléfono móvil.",
+        "Entradas": {
+            "cohesion": 0.21657034816841284,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 60.260000000000005,
+            "inflesz": 54.8725
+        },
+        "Salidas": {
+            "cohesion": 0.20818174372650158,
+            "gramatica": 1.0,
+            "complejidad": 0.7727272727272727,
+            "riqueza": 0,
+            "huerta": 58.03636363636366,
+            "inflesz": 53.62742424242427
+        }
+    },
+    {
+        "prompt": "¿Qué opinas sobre las tareas escolares?",
+        "respuesta": "Las tareas escolares son una herramienta importante para reforzar lo aprendido en clase, practicar habilidades y fomentar la responsabilidad y la organización en los estudiantes. Es importante completar las tareas con dedicación y en tiempo adecuado para obtener buenos resultados académicos. ¡Recuerda que la práctica hace al maestro!",
+        "Entradas": {
+            "cohesion": 0.16644096095114946,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 50.720000000000006,
+            "inflesz": 45.08500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.25265066824712845,
+            "gramatica": 1.0,
+            "complejidad": 0.8125,
+            "riqueza": 0,
+            "huerta": 40.52,
+            "inflesz": 35.08500000000001
+        }
+    },
+    {
+        "prompt": "¿Por qué es importante hacer ejercicio?",
+        "respuesta": "¡Hola! Hacer ejercicio es importante porque ayuda a mantener nuestro cuerpo fuerte y saludable. Al hacer ejercicio, fortalecemos nuestros músculos y huesos, mejoramos nuestra resistencia y equilibramos nuestro peso. También nos ayuda a liberar endorfinas, que son las hormonas de la felicidad, lo que nos hace sentir bien. Además, el ejercicio reduce el estrés y mejora nuestra concentración y habilidades cognitivas. ¡Así que no olvides hacer ejercicio regularmente para cuidar de tu cuerpo y tu mente!",
+        "Entradas": {
+            "cohesion": 0.1365415824111551,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 60.720000000000006,
+            "inflesz": 55.468333333333334
+        },
+        "Salidas": {
+            "cohesion": 0.21772946905491225,
+            "gramatica": 1.0,
+            "complejidad": 0.75,
+            "riqueza": 0,
+            "huerta": 61.28842105263156,
+            "inflesz": 56.45254385964912
+        }
+    },
+    {
+        "prompt": "¿Qué piensas sobre el reciclaje?",
+        "respuesta": "El reciclaje es una práctica muy importante para cuidar nuestro planeta. Al reciclar, podemos ayudar a reducir la cantidad de basura que producimos y conservar los recursos naturales. Es una forma de proteger el medio ambiente y contribuir a un futuro más sostenible. ¡Todos podemos hacer nuestra parte reciclando!",
+        "Entradas": {
+            "cohesion": 0.24186792969703674,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 69.74000000000001,
+            "inflesz": 64.775
+        },
+        "Salidas": {
+            "cohesion": 0.23041460057932206,
+            "gramatica": 1.0,
+            "complejidad": 0.8979591836734694,
+            "riqueza": 0,
+            "huerta": 64.54908163265307,
+            "inflesz": 59.813571428571436
+        }
+    },
+    {
+        "prompt": "¿Deberían los niños aprender a cocinar? ¿Por qué?",
+        "respuesta": "¡Claro que sí! Aprender a cocinar es una habilidad muy importante para la vida diaria. Cocinar nos enseña a ser autosuficientes, a seguir instrucciones, a ser creativos y a trabajar en equipo si cocinamos con otros. Además, saber cocinar nos ayuda a llevar una alimentación más saludable y a apreciar la comida de una manera diferente. ¡Así que aprender a cocinar es una gran idea!",
+        "Entradas": {
+            "cohesion": 0.21067364513874054,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 75.26,
+            "inflesz": 70.44750000000002
+        },
+        "Salidas": {
+            "cohesion": 0.21113102546078152,
+            "gramatica": 1.0,
+            "complejidad": 0.7230769230769231,
+            "riqueza": 0,
+            "huerta": 64.34923076923077,
+            "inflesz": 59.65038461538464
+        }
+    },
+    {
+        "prompt": "¿Qué opinas sobre la tecnología en la educación?",
+        "respuesta": "La tecnología en la educación puede ser muy beneficiosa, ya que puede ayudar a mejorar la forma en que aprendemos y enseñamos. Puede hacer que el aprendizaje sea más interactivo, accesible y divertido. Sin embargo, es importante utilizarla de manera equilibrada y adecuada, y no depender completamente de ella. Es importante recordar que la tecnología es una herramienta que puede complementar la educación, pero no reemplazar la importancia del contacto humano y la interacción en el proceso de aprendizaje.",
+        "Entradas": {
+            "cohesion": 0.19835347607731818,
+            "gramatica": 1.0,
+            "complejidad": 0.875,
+            "riqueza": 0,
+            "huerta": 48.68000000000001,
+            "inflesz": 43.08500000000001
+        },
+        "Salidas": {
+            "cohesion": 0.25413980798541824,
+            "gramatica": 1.0,
+            "complejidad": 0.6962025316455697,
+            "riqueza": 0,
+            "huerta": 46.18867088607594,
+            "inflesz": 41.19259493670887
+        }
+    },
+    {
+        "prompt": "¿Es mejor vivir en la ciudad o en el campo? ¿Por qué?",
+        "respuesta": "Tanto vivir en la ciudad como en el campo tienen sus ventajas y desventajas. En la ciudad, hay más oportunidades de trabajo, educación y entretenimiento, pero puede ser más ruidoso y contaminado. En el campo, hay aire fresco, tranquilidad y contacto con la naturaleza, pero puede haber menos servicios y oportunidades. La elección depende de las preferencias de cada persona y su estilo de vida. ¡Ambos lugares tienen su encanto!",
+        "Entradas": {
+            "cohesion": 0.1826688447035849,
+            "gramatica": 1.0,
+            "complejidad": 0.9166666666666666,
+            "riqueza": 0,
+            "huerta": 115.71999999999998,
+            "inflesz": 112.57666666666667
+        },
+        "Salidas": {
+            "cohesion": 0.1758647579217057,
+            "gramatica": 1.0,
+            "complejidad": 0.7285714285714285,
+            "riqueza": 0,
+            "huerta": 69.13142857142859,
+            "inflesz": 64.67500000000004
+        }
+    },
+    {
+        "prompt": "¿Qué opinas sobre el uso de animales en los circos?",
+        "respuesta": "El uso de animales en circos ha generado preocupación debido a posibles problemas de bienestar animal. Algunas personas consideran que esta práctica puede ser perjudicial para los animales, ya que pueden experimentar estrés, maltrato y condiciones de vida inadecuadas. Por esta razón, en muchos lugares se han implementado leyes y normativas para regular o prohibir el uso de animales en circos. Es importante considerar el bienestar de los animales y buscar alternativas que permitan su cuidado y protección adecuada.",
+        "Entradas": {
+            "cohesion": 0.11948058249739309,
+            "gramatica": 1.0,
+            "complejidad": 1.0,
+            "riqueza": 0,
+            "huerta": 82.64,
+            "inflesz": 78.46500000000002
+        },
+        "Salidas": {
+            "cohesion": 0.2532118754786288,
+            "gramatica": 1.0,
+            "complejidad": 0.759493670886076,
+            "riqueza": 0,
+            "huerta": 46.948164556962055,
+            "inflesz": 41.98120253164558
+        }
+    }
+]
